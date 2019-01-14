@@ -1,4 +1,4 @@
-##SIMPLE scripts which uses threads.
+###SIMPLE scripts which uses threads.
 
 my_function(item) - 
 takes as an argument element of 2 dimentional array (my_array)
